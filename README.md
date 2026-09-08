@@ -1,3 +1,1 @@
 # samsonov.github.io
-
-# Приветствую!
