@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Samsonov's homepage
 description: Здесь будут выложены мои знания!
+
+layout: page
+title: "START"
+permalink: https://samsonov.github.io/start/
